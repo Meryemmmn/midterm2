@@ -37,7 +37,7 @@ result:
 ---
 
 the screenchot:
-![Program Output](Screenshot.png)
+![Program Output](screenshot.png)
 
 ---
 
