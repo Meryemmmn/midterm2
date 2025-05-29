@@ -36,7 +36,7 @@ result:
 
 ---
 
-the screenchot:
+the screenshot:
 ![Program Output](screenshot.png)
 
 ---
